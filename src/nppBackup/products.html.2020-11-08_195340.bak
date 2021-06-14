@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warehouse Products: Categories</title>
+    <link rel="stylesheet" href="bootstrap-4.5.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="list-group">
+
+  <a href="" class="list-group-item list-group-item-action">Electronics</a>
+  <a href="#" class="list-group-item list-group-item-action">Grocery</a>
+  <a href="#" class="list-group-item list-group-item-action">Beauty</a>
+  <a href="#" class="list-group-item list-group-item-action">Health</a>
+  <a href="#" class="list-group-item list-group-item-action">Toys</a>
+  <a href="#" class="list-group-item list-group-item-action">Sports</a>
+  <a href="#" class="list-group-item list-group-item-action">Outdoors</a>
+  <a href="#" class="list-group-item list-group-item-action">Automotive</a>
+  <a href="#" class="list-group-item list-group-item-action">Pet</a>
+  <a href="#" class="list-group-item list-group-item-action">Home</a>
+  <a href="#" class="list-group-item list-group-item-action">Clothing</a>
+  <a href="#" class="list-group-item list-group-item-action">Shoes</a>
+  <a href="#" class="list-group-item list-group-item-action">Jewelry</a>
+  <a href="#" class="list-group-item list-group-item-action">Books</a>
+  <a href="#" class="list-group-item list-group-item-action">Music</a>
+
+</div>
+</body>
+</html>
